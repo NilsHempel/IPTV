@@ -23,27 +23,27 @@ http://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
 http://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
 #EXTINF:-1,12 – PHOENIX
 http://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
-#EXTINF:-1,13 – Bloomberg TV
-https://www.bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1,14 – WDR
+#EXTINF:-1,13 – WDR
 https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
-#EXTINF:-1,15 – NDR Hamburg
+#EXTINF:-1,14 – NDR Hamburg
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
-#EXTINF:-1,16 – SWR BW
+#EXTINF:-1,1 – SWR BW
 https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
-#EXTINF:-1,17 – HR
+#EXTINF:-1,16 – HR
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
-#EXTINF:-1,18 – BR Süd
+#EXTINF:-1,17 – BR Süd
 https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
-#EXTINF:-1,19 – MDR Sachsen
+#EXTINF:-1,18 – MDR Sachsen
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
-#EXTINF:-1,20 – WELT
+#EXTINF:-1,19 – WELT
 https://welt.personalstream.tv/v1/master.m3u8
-#EXTINF:-1,21 – VOX
+#EXTINF:-1,20 – VOX
 https://c7.lbaa.pw:8081/lb/vox/1/www.tvpinto.com/c10/1705170940/Gs8HGaW-N3DLxKjHtVpxlw/10690.m3u8
-#EXTINF:-1,22 – Sat.1
+#EXTINF:-1,21 – Sat.1
 https://c7.lbaa.pw:8081/lb/sat1/1/www.tvpinto.com/c10/1705170977/H9TJIHQDy7wzt9RtWw4hSw/10699.m3u8
-#EXTINF:-1,23 – RTL
+#EXTINF:-1,22 – RTL
 https://c7.lbaa.pw:8081/lb/rtl/1/www.tvpinto.com/c10/1705171015/4Dq1eIhwY6Q85j7Uf2umpw/10691.m3u8
-#EXTINF:-1,24 – ntv
+#EXTINF:-1,23 – ntv
 https://c7.lbaa.pw:8081/lb/ntv/1/www.tvpinto.com/c10/1705171044/EqfJ1j8VoGDzTyD3TDeiFQ/10696.m3u8
+#EXTINF:-1,24 – Bloomberg TV
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
