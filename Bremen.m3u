@@ -25,3 +25,25 @@ http://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
 http://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 #EXTINF:-1,13 – Bloomberg TV
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1,14 – WDR
+https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
+#EXTINF:-1,15 – NDR Hamburg
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+#EXTINF:-1,16 – SWR BW
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+#EXTINF:-1,17 – HR
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
+#EXTINF:-1,18 – BR Süd
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1,19 – MDR Sachsen
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
+#EXTINF:-1,20 – WELT
+https://ythls.armelin.one/channel/UCZMsvbAhhRblVGXmEXW8TSA.m3u8
+#EXTINF:-1,21 – VOX
+https://c7.lbaa.pw:8081/lb/vox/1/www.tvpinto.com/c10/1705170940/Gs8HGaW-N3DLxKjHtVpxlw/10690.m3u8
+#EXTINF:-1,22 – Sat.1
+https://c7.lbaa.pw:8081/lb/sat1/1/www.tvpinto.com/c10/1705170977/H9TJIHQDy7wzt9RtWw4hSw/10699.m3u8
+#EXTINF:-1,23 – RTL
+https://c7.lbaa.pw:8081/lb/rtl/1/www.tvpinto.com/c10/1705171015/4Dq1eIhwY6Q85j7Uf2umpw/10691.m3u8
+#EXTINF:-1,24 – ntv
+https://c7.lbaa.pw:8081/lb/ntv/1/www.tvpinto.com/c10/1705171044/EqfJ1j8VoGDzTyD3TDeiFQ/10696.m3u8
