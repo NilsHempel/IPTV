@@ -9,25 +9,19 @@ https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
 #EXTINF:-1,5 – ARTE DE
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
-#EXTINF:-1,ARTE HD
-https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master_v720.m3u8
 #EXTINF:-1,6 – 3Sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
-#EXTINF:-1,ARD ONE
+#EXTINF:-1,7 – ARD ONE
 https://mcdn.one.ard.de/ardone/hls/master.m3u8
-#EXTINF:-1,ARD Alpha
+#EXTINF:-1,8 –A RD Alpha
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-#EXTINF:-1,ARD Tagesschau
+#EXTINF:-1,9 – ARD Tagesschau
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1,ZDF neo
+#EXTINF:-1,10 – ZDF neo
 http://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
-#EXTINF:-1,ZDF info
+#EXTINF:-1,11 – ZDF info
 http://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
-#EXTINF:-1,PHOENIX
+#EXTINF:-1,12 – PHOENIX
 http://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
-#EXTINF:-1,DW
-https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
-#EXTINF:-1, rbb Berlin HD
-https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
-#EXTINF:-1,Bloomberg TV
+#EXTINF:-1,13 – Bloomberg TV
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
