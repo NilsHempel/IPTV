@@ -27,7 +27,7 @@ http://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
 #EXTINF:-1,14 – NDR Hamburg
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
-#EXTINF:-1,1 – SWR BW
+#EXTINF:-1,15 – SWR BW
 https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
 #EXTINF:-1,16 – HR
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
